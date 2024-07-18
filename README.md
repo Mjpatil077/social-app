@@ -41,17 +41,17 @@ Welcome to Communify, the next generation social media app designed to bring peo
 ### Steps
 
 <p style="font-size:18px;">1. **Clone the repository**</p>
-<p style="font-size:16px;">```bash
-git clone https://github.com/yourusername/social-app.git
+<p style="font-size:16px;">```
+git clone https://github.com/Mjpatil077/social-app.git
 cd social-app
 ```</p>
 
 <p style="font-size:18px;">2. **Install dependencies**</p>
-<p style="font-size:16px;">```bash
-npm install
+<p style="font-size:16px;">```
+npm install vite
 ```</p>
 
-<p style="font-size:18px;">3. **Set up environment variables**</p>
+<p style="font-size:18px;">3. **Set up environment variables**</p> (OPTIONAL FOR OWNERS)
 <p style="font-size:16px;">Create a `.env` file in the root directory and add the following:</p>
 <p style="font-size:16px;">```env
 DATABASE_URL=your_mongodb_url
@@ -60,12 +60,12 @@ CLOUDINARY_URL=your_cloudinary_url
 ```</p>
 
 <p style="font-size:18px;">4. **Start the development server**</p>
-<p style="font-size:16px;">```bash
-npm start
+<p style="font-size:16px;">```
+npm run dev
 ```</p>
 
 <p style="font-size:18px;">5. **Open the app**</p>
-<p style="font-size:16px;">Open your browser and go to `http://localhost:3000`</p>(Can be different if using Vite)
+<p style="font-size:16px;">Open your browser and go to `http://localhost:5173`</p>(Can be different)
 
 ## Contributing
 
