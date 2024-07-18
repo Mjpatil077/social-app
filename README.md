@@ -39,8 +39,9 @@ Welcome to Communify, the next generation social media app designed to bring peo
 - MongoDB
 
 ### Steps
+-----------------------------DOWNLOAD ZIP FILE---------------------------------------
 
-<p style="font-size:18px;">1. **Clone the repository**</p>
+<p style="font-size:18px;">1. **Clone the repository**</p> @@@@@@@(DONT USE THIS IF YOU DONT HAVE GITHUB CLI INSTALLED)@@@@@@@@@
 <p style="font-size:16px;">```1)git clone https://github.com/Mjpatil077/social-app.git 2) cd social-app
 ```</p>
 
@@ -48,7 +49,7 @@ Welcome to Communify, the next generation social media app designed to bring peo
 <p style="font-size:16px;">```
 npm install vite
 ```</p>
-
+                ###--------------------------------NOT RECOMMENDED FOR NOW"----------------------------------------------###
 <p style="font-size:18px;">3. **Set up environment variables**</p> (OPTIONAL FOR OWNERS)
 <p style="font-size:16px;">Create a `.env` file in the root directory and add the following:</p>
 <p style="font-size:16px;">```env
@@ -56,6 +57,7 @@ DATABASE_URL=your_mongodb_url
 JWT_SECRET=your_jwt_secret
 CLOUDINARY_URL=your_cloudinary_url
 ```</p>
+            ###------------------------------------------------------------------------------------------------------------###
 
 <p style="font-size:18px;">4. **Start the development server**</p>
 <p style="font-size:16px;">```
