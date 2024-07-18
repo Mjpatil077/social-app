@@ -41,9 +41,7 @@ Welcome to Communify, the next generation social media app designed to bring peo
 ### Steps
 
 <p style="font-size:18px;">1. **Clone the repository**</p>
-<p style="font-size:16px;">```
-git clone https://github.com/Mjpatil077/social-app.git
-cd social-app
+<p style="font-size:16px;">```1)git clone https://github.com/Mjpatil077/social-app.git 2) cd social-app
 ```</p>
 
 <p style="font-size:18px;">2. **Install dependencies**</p>
